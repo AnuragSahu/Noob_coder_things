@@ -1,8 +1,4 @@
 ---
-title: "First day at Robotics Research Center (RRC)"
----
-
----
 title: "About my skill Levels at the start of CP."
 ---
 
