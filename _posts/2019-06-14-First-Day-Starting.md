@@ -28,3 +28,10 @@ How Do I plan to go with it.
 - I will be following the Roadmap to Competitive Programming for Beginners by CareerHigh
 - link - https://careerhigh.in/roadmap/9/
 - Don't Break Again, and even if you break make sure that you are back again.
+
+AccorDing to it STEP - 1,
+- Learn a well - known programming Language
+- I will be using C++ , it is widely used in the world,
+- Many of my fellow coders use C++,
+- its is the fastest.
+- Will do the Proper Online C++ coding tutorial for Competitive coding.
