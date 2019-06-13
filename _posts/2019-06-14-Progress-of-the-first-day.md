@@ -1,12 +1,12 @@
 ---
-title: "Progress witht the first day."
+title: "Progress on the first day."
 ---
 
 This post will be about the progress I made in the First day that is on 12 Jun 19,
 
 I started searching the C++ tutorials for Competitive Coding, I landed on the Introductory tutorials for Competitive coding on CODECHEF. https://www.codechef.com/ioi/basics, <br>
 
-IT was a great Reseource to start with, I did the First part of the tutorials, Basic Number theory,
+It s a great Reseource to start with, I did the First part of the tutorials, Basic Number theory,
 
 Learning from First Day:-
  - Calculation of modulo
