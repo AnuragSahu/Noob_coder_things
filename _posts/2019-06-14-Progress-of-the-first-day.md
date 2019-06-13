@@ -58,7 +58,7 @@ int main(){
 	int till = 1;
 	for(int i=3;i<=number;i++){
 		bool flag = false;
-		for (int j = 0;j<till;j++) //>
+		for (int j = 0;j<till;j++)
 			if(i%arr[j] == 0){
 				flag = true;
 				break;
