@@ -98,3 +98,8 @@ int main()
 }
 
 {% endhighlight %}
+
+- Important Formulas
+	- (a+b) mod c = ((a mod c) + (b mod c)) mod c
+	- (a*b) mod c = ((a mod c) * (b mod c)) mod c
+	- (a-b) mod c = ((a mod c) - (b mod c)) mod c
