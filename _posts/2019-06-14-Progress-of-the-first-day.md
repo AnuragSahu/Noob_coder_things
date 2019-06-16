@@ -1,5 +1,5 @@
 ---
-title: "Progress on the first day."
+title: "Progress on the First day."
 ---
 
 This post will be about the progress I made in the First day that is on 12 Jun 19,
