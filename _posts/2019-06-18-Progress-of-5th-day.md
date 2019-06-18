@@ -1,5 +1,5 @@
 ---
-title: "Progress on the 5th Day."
+title: "Progress on 5th Day."
 ---
 
 Today I went ahead and made an account in <a href="https://www.spoj.com">SPOJ</a> (Sphere Online Judge).

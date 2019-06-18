@@ -1,5 +1,5 @@
 ---
-title: "Progress on the 2nd Day."
+title: "Progress on 2nd Day."
 ---
 
 I was very happy with progress I made on the First day(14th Jun), As of on 15th I was able to overshoot to the targeted work by a lot, I completed 
