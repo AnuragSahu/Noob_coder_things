@@ -17,4 +17,11 @@ Today I solved Three Problems in SPOJ,
 
 * I also tried to solve the Problem The Next Palindrome, but haven't implemented it yet.
 
+Also there was Also a very wierd Problem list on the 3 number called SubString Check(Bug Funny), It was suppossed to be solved by only either of the following Language
+- <a href="https://en.wikipedia.org/wiki/Brainfuck">BrainF**k</a>
+- <a href="https://en.wikipedia.org/wiki/Whitespace_(programming_language)">Whitespace</a>
+- <a href="https://www.whoishostingthis.com/resources/intercal/">Intercal</a>
+
+I didn't had the code even Hello World in any of these Languages.
+
 Well nothing much of progress but Still doing something will contiue the struggle.
